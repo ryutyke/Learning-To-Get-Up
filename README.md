@@ -5,6 +5,9 @@ https://drive.google.com/file/d/1y1xESAXIlklTxi6SKGNC1uiMccggZest/view?usp=shari
 
 주제 : SAC 강화학습 알고리즘, Strong to Weak 방법으로 기립 애니메이션 생성
 
+참고한 논문 :
+Tao, T., Wilson, M., Gou, R., & van de Panne, M. (2022, August 7). Learning to Get Up. Special Interest Group on Computer Graphics and Interactive Techniques Conference Proceedings. ACM. https://doi.org/10.1145/3528233.3530697
+
 동기 : 게임 속 캐릭터의 기립 모션이 부자연스러웠다. 누워있는 모습의 형태는 다양하지만, 모든 초기 상태에 대해서 애니메이션을 제작할 수 없기 때문이다.
 강화학습으로 어떤 초기 상태에서라도 일어날 수 있는 액터를 학습할 수 있다면 다양한 초기 상태에 대해서 아주 쉽게 애니메이션을 제작할 수 있을 것이다.
 
