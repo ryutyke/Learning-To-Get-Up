@@ -1,5 +1,7 @@
 # Learning-To-Get-Up
 
+설명 영상 : https://youtu.be/sk4Bt2QC1OI
+
 UE 5.1 Project file download
 https://drive.google.com/file/d/1y1xESAXIlklTxi6SKGNC1uiMccggZest/view?usp=sharing
 
